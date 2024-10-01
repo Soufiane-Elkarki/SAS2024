@@ -28,14 +28,7 @@ int main(){
         }
         
     }
-    
-
-
-
-
-
-
-
+ 
         printf("le max  de tableux est : %d", max);
    
     return 0;
